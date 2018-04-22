@@ -1,0 +1,10 @@
+clear 
+echo "## SUBSCRIBE MY YOUTUBE CHANNEL > TACZCLUB ##"
+echo "## FOLLOW ME ON INSTA > an_evil_king ##"
+echo "## FB ID > ayush.sharma.83 ##"
+echo "## WEBSITE > taczclub.blogspot.com ##"
+echo ""
+echo ""
+echo ""
+echo ""
+php -S localhost:8080 -t /sdcard/htdocs
